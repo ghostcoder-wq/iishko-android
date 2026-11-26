@@ -1,0 +1,8 @@
+build/
+assets/rootfs.dat
+*.apk
+*.idsig
+*.keystore
+*.jks
+.env
+github-token
