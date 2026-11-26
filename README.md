@@ -4,6 +4,9 @@ Android-порт **IISHKO Selfhost**: локальный IISHKO-сервер р�
 
 > Это Android-обёртка/порт, а не официальный клиент IISHKO и не игровой порт. Steam, Wine, Box64 и игры сюда не входят.
 
+- Репозиторий: https://github.com/2016ibragimov223-wq/iishko-android
+- Releases: https://github.com/2016ibragimov223-wq/iishko-android/releases/tag/v2.0
+
 ## Что внутри
 
 - Android-приложение `com.iishko.selfhost` (Java, minSdk 23, targetSdk 28, arm64-v8a).
