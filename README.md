@@ -2,8 +2,8 @@
 
 Android-порт **IISHKO Selfhost**: локальный IISHKO-сервер работает на телефоне, а интерфейс открывается в WebView. Приложение не требует root: Linux-окружение запускается через PRoot, внутри — Debian rootfs, Bun и сервер IISHKO.
 
-- Репозиторий: https://github.com/2016ibragimov223-wq/iishko-android
-- Releases: https://github.com/2016ibragimov223-wq/iishko-android/releases/tag/v2.0
+- Репозиторий: https://github.com/ghostcoder-wq/iishko-android
+- Releases: https://github.com/ghostcoder-wq/iishko-android/releases/tag/v2.0
 
 ## Что внутри
 
